@@ -1,10 +1,13 @@
 # school
 <h1>Word Processing with MS Word 2</h1>
-<h2>Setting Up Git</h2>
-<p> TO SET UP GIT:</p>
+<h2>Purpose</h2>
+<p> To make a study calendar </p>
+<h2> Courses taken: </h2>
 <ul>
-  <li> Create a git repos with a read me and license file </li>
-  <li> Have at least 3 commit changes to show development </li>
-  <li> Update README file by indicating name and purpose of the document when adding new documents in the repository </li>
-  <li> Format README file </li>
-  </ul>
+  <li> Intro to Computer Science </li>
+  <li> Game Programming 1 </li>
+  <li> French </li>
+  <li> Programming 1 </li>
+  <li> English </li>
+  <li> Math Concepts </li>
+</ul>
